@@ -1,2 +1,2 @@
 # quick-access-sites
-This is a basic code that I made where you can click on links to web pages.
+This is a code that I made with notepad ++ on my computer. The code contains links from various websites and download links.
